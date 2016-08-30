@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<!--
+  <base href="./">-->
+  <!-- this is very important -->
+  <meta charset="UTF-8">
+  <title>Hello World!</title>
+
+</head>
+
+<body>
+ <h1>TinyMCE Quick Start Guide</h1>
+  <form method="post">
+    <textarea id="mytextarea">Hello, World!</textarea>
+  </form>
+</body>
+
+<script src='node_modules/tinymce/tinymce.min.js'></script>
+
+<script>
+   tinymce.init({
+    selector: '#mytextarea'
+  });
+  </script>
+</html>
