@@ -8,7 +8,7 @@ button,input,input:not([type]),input[type=number],input[type=password],input[typ
 .codepen body{margin:10px 0 0}
 .codepen body textarea{display:none}
 .mce-container textarea{display:initial!important}
-.mce-content-body{font-family:Lato!important;font-size:14px;color:#828282;padding:0 25px 25px}
+.mce-content-body{font-family:Lato!important;font-size:14px;color:#828282;padding:0 25px 25px;}
 .mce-content-body h1,.mce-content-body h2,.mce-content-body h3,.mce-content-body h4,.mce-content-body h5,.mce-content-body h6{font-family:aileron;font-weight:200;line-height:1.4em;margin:25px 0 15px}
 .mce-content-body h1{font-size:34px}
 .mce-content-body h2{font-size:30px}
